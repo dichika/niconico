@@ -1,0 +1,9 @@
+Package: niconico
+Type: Package
+Title: get niconico data
+Version: 0.1
+Date: 2015-01-25
+Author: dichika
+Description: get niconico
+License: MIT
+Imports: rvest, httr
