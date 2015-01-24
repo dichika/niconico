@@ -6,4 +6,4 @@ Date: 2015-01-25
 Author: dichika
 Description: get niconico
 License: MIT
-Imports: rvest, httr
+Imports: rvest, XML
